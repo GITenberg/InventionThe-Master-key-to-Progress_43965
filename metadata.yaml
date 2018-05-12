@@ -1,0 +1,40 @@
+_repo: InventionThe-Master-key-to-Progress_43965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43965-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fiske, Bradley A. (Bradley Allen)
+    alias: Fiske, Bradley Allen
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '7447'
+    url: http://www.gutenberg.org/2009/agents/7447
+    wikipedia: http://en.wikipedia.org/wiki/Bradley_Fiske
+description: ''
+gutenberg_issued: '2013-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43965'
+  lccn: '21018784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions -- History'
+- !lcc 'T'
+tableOfContents: 'Invention in primeval times -- Invention in the Orient -- Invention
+  in Greece -- Invention in Rome: its rise and fall -- Invention of the gun and of
+  printing -- Columbus, Copernicus, Galileo and others -- The rise of electricity,
+  steam and chemistry -- The age of steam, Napoleon and Nelson -- Inventions in steam,
+  electricity, and chemistry create a dangerous era -- Certain important creations
+  of invention, and their beneficent influence -- Invention and growth of liberal
+  government and American Civil War -- Invention of the modern military machine, telephone,
+  phonograph and preventive medicine -- The conquest of the ether; moving pictures;
+  rise of Japan and the United States -- The fruition of invention -- The machine
+  of civilization, and the dangerous ignorance concerning it, shown by statesmen --
+  The future.'
+title: 'Invention: The Master-key to Progress'
+url: http://www.gutenberg.org/ebooks/43965
