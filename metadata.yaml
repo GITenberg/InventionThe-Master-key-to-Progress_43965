@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7447
     wikipedia: http://en.wikipedia.org/wiki/Bradley_Fiske
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43965#InventionThe-Master-key-to-Progress
 gutenberg_issued: '2013-10-17'
 gutenberg_type: Text
 identifiers:
